@@ -3,6 +3,7 @@
 - 📫 How to reach me: 
 <a href="mailto:odai.al.obeidat950@gmail.com">![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/odai-al-obeidat-a81b42266/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/odai950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odai950" height="30" width="40" /></a>
 - 🔭 I’m currently studying Software Developer - .NET Developer at the (Code Fellows) - LTUC University
 - ⚡ Studied Master of Project Management at Al-Balqa Applied University.
 
