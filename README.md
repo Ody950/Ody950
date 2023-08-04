@@ -6,7 +6,7 @@
 - 🔭 I’m currently studying Software Developer - .NET Developer at the (Code Fellows) - LTUC University
 - ⚡ Studied Master of Project Management at Al-Balqa Applied University.
 
-[![HackerRank](https://img.shields.io/badge/odai_al_obeidat1_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/Ody950)
+[![HackerRank](https://img.shields.io/badge/odai_al_obeidat1_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/odai_al_obeidat1)
 [![Codepen](https://img.shields.io/badge/Codewars-Ody950-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ody950)
 
 
